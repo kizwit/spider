@@ -47,33 +47,27 @@ A Web crawler, sometimes called a spider or spiderbot and often shortened to cra
 * Currently available in only Command Line Interface (CLI).
 
 
-# Mind Map (v1)
-
-Check out our mind map to see visually organize information of this tool regarding api, services and techniques and more.
-
-https://bhavsec.com/img/reconspider_map.png
-
 
 
 # License Information
 ```
-ReconSpider and its documents are covered under GPL-3.0 (General Public License v3.0)
+Spider and its documents are covered under GPL-3.0 (General Public License v3.0)
 ```
 
 
 
-## ReconSpider Banner
+## pider Banner
 
 
 
 
- #####  ######  ### ######  ####### ######     ######  #     #    #    # ### ####### #     # ### ####### 
- #     # #     #  #  #     # #       #     #    #     #  #   #     #   #   #       #  #  #  #  #     #    
- #       #     #  #  #     # #       #     #    #     #   # #      #  #    #      #   #  #  #  #     #    
-  #####  ######   #  #     # #####   ######     ######     #       ###     #     #    #  #  #  #     #    
-       # #        #  #     # #       #   #      #     #    #       #  #    #    #     #  #  #  #     #    
- #     # #        #  #     # #       #    #     #     #    #       #   #   #   #      #  #  #  #     #    
-  #####  #       ### ######  ####### #     #    ######     #       #    # ### #######  ## ##  ###    #    
+ #####  ######  ### ######  ####### ######     
+ #     # #     #  #  #     # #       #     #     
+ #       #     #  #  #     # #       #     #       
+  #####  ######   #  #     # #####   ######        
+       # #        #  #     # #       #   #        
+ #     # #        #  #     # #       #    #      
+  #####  #       ### ######  ####### #     #      
                                                                                                        
 
 
@@ -116,7 +110,7 @@ Let's Begin !!
 
 ### Setting up the environment
 
-Step 1 - Cloning ReconSpider on your linux system.
+Step 1 - Cloning Spider on your linux system.
 
 In order to download ReconSpider simply clone the github repository. Below is the command which you can use in order to clone ReconSpider repository.
 ```
@@ -309,7 +303,7 @@ Bye, See ya again..
 
 Do you want to have a conversation in private?
 
-    Twitter:            @bhavsec
+    Twitter:            @kizwitofficial
     Facebook:           fb.com/chuckleskizwit
     Instagram:          instagram.com/kizwitofficial
     LinkedIn:           linkedin.com/in/
@@ -320,7 +314,7 @@ Do you want to have a conversation in private?
 
 # ReconSpider Full Wiki and How-to Guide
 
-Please go through the [ReconSpider Wiki Guide](https://github.com/bhavsec/reconspider/wiki) for a detailed explanation of each and every option and feature.
+Please go through the [ReconSpider Wiki Guide](https://github.com/kizwit/wiki) for a detailed explanation of each and every option and feature.
 
 
 # Frequent & Seamless Updates
