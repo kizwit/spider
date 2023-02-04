@@ -56,7 +56,7 @@ Spider and its documents are covered under GPL-3.0 (General Public License v3.0)
 
 
 
-## pider Banner
+## spider Banner
 
 
 
@@ -99,7 +99,7 @@ ENTER 0 - 13 TO SELECT OPTIONS
 
 # Documentation
 
-Installing and using ReconSpider is very easy. Installation process is very simple.
+Installing and using Spider is very easy. Installation process is very simple.
 
 1. Downloading or cloning ReconSpider github repository.
 2. Installing all dependencies.
