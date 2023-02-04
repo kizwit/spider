@@ -27,12 +27,12 @@ fout.write("    return str(api)"+ "\n")
 fout.close()
 
 setup(
-    name="ReconSpider",
-    version="1.0.7",
+    name="Spider",
+    version="1.1.0",
     description="Most Advanced OSINT Framework",
-    url="https://github.com/bhavsec/reconspider/",
-    author="BhavKaran (bhavsec.com)",
-    author_email="bhavsec@gmail.com",
+    url="ttps://github.com/kizwit/spider/",
+    author="kizwit ",
+    author_email="kizwit1@gmail.com",
     license="GPL-3.0",
     install_requires=["shodan", "requests", "prompt_toolkit","wget","beautifulsoup4","click","urllib3","IP2proxy","wget","paramiko","h8mail","nmap","pythonping","whois","gmplot","pillow","lxml","tweepy"],
     console=["reconspider.py"],
@@ -58,5 +58,5 @@ with zipfile.ZipFile(filepath+"IP2PROXY-LITE-PX8.BIN.ZIP","r") as zip_ref:
     zip_ref.extract("IP2PROXY-LITE-PX8.BIN",filepath)
 
 print("\nInstallation Successfull")
-print("\n\nNote: APIs included in ReconSpider are FREE and having limited & restricted usage per month, Please update the current APIs with New APIs in setup.py file, and re-install once done.")
+print("\n\nNote: APIs included in pider are FREE and having limited & restricted usage per month, Please update the current APIs with New APIs in setup.py file, and re-install once done.")
 print("\nWarning: Not updating the APIs can result in not showing the expected output or it may show errors.")
