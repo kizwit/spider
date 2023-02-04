@@ -9,16 +9,6 @@
 <a href="https://github.com/bhavsec/reconspider/issues?q=is:issue+is:closed"><img src="https://img.shields.io/github/issues-closed/bhavsec/reconspider?color=orange"></a>
 
 
-        #####  ######  ### ######  ####### ######     ######  #     #    #    # ### ####### #     # ### ####### 
- #     # #     #  #  #     # #       #     #    #     #  #   #     #   #   #       #  #  #  #  #     #    
- #       #     #  #  #     # #       #     #    #     #   # #      #  #    #      #   #  #  #  #     #    
-  #####  ######   #  #     # #####   ######     ######     #       ###     #     #    #  #  #  #     #    
-       # #        #  #     # #       #   #      #     #    #       #  #    #    #     #  #  #  #     #    
- #     # #        #  #     # #       #    #     #     #    #       #   #   #   #      #  #  #  #     #    
-  #####  #       ### ######  ####### #     #    ######     #       #    # ### #######  ## ##  ###    #    
-                                                                                                       
-  
-  
 </p>
 
 # SPIDER
