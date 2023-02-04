@@ -2,6 +2,7 @@
 
 </h1>
 https://springhow.com/spring-boot-banner-generator/
+DARKWIZ
 
 <h4 align="center"> Most Advanced Open Source Intelligence (OSINT) Framework </h4>
 
