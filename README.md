@@ -1,8 +1,7 @@
 <h1 align="center">
 
 </h1>
-https://springhow.com/spring-boot-banner-generator/
-DARKWIZ
+
 
 <h4 align="center"> Most Advanced Open Source Intelligence (OSINT) Framework </h4>
 
@@ -49,7 +48,9 @@ A Web crawler, sometimes called a spider or spiderbot and often shortened to cra
 * Currently available in only Command Line Interface (CLI).
 
 
-
+https://patorjk.com/software/taag/#p=display&h=0&f=Mirror&t=DARKWIZ%0A
+https://springhow.com/spring-boot-banner-generator/
+DARKWIZ
 
 # License Information
 ```
